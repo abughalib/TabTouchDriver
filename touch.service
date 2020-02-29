@@ -1,0 +1,8 @@
+[Unit]
+Description=Touch Driver
+
+[Service]
+ExecStart=/etc/init.d/touch.sh
+
+[Install]
+WantedBy=multi-user.target

@@ -4,7 +4,8 @@ Touch Driver for tablets
 # Firmware
 ### You can Find the firmware for the supported tablets
 https://github.com/onitake/gsl-firmware
-or if you tablet is not listed search for Extracting firmware in that page.
+or if you tablet is not listed search for Extracting firmware in that page. <br />
+[Firmware Extractor](https://github.com/jabjoe/sunxi-gslx680/)
 
 # Process
 ### Installation process very easy.
@@ -29,3 +30,5 @@ mv /path/to/slead.fw /lib/firmware <br />
 sh install.sh <br />
 ```
 ### This should do everything and autostart is already in the script fell free to modify it.
+<br />
+## For cross-platform compiling [Go Here](https://github.com/onitake/gslx680-acpi/)
