@@ -1,6 +1,5 @@
-# TabTouchDriver
-Touch Driver for tablets
-
+# Linux on touch tablets.
+Easy Touch Installation process for touch tablets like Chuwi, Jumper, Onda, Teclast etc...
 # Firmware
 ### You can Find the firmware for the supported tablets
 https://github.com/onitake/gsl-firmware
