@@ -33,7 +33,7 @@ sh install.sh
 ## For cross-platform compiling [Go Here](https://github.com/onitake/gslx680-acpi/)
 
 ## Common Errors
-### insmod: not command found.
+### insmod: command not found.
 **Replace insmod to /sbin/insmod in touch.sh**<br/>
 ### Command Not found in general Try step by step:
 For Debian or debian derivatives <br/>
