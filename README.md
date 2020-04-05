@@ -25,8 +25,8 @@ _For chuwi hi10 Plus I download [Chuwi Hi10 Plus] (https://github.com/onitake/gs
 <br />
 **Move it to firmware** <br />
 ```
-mv /path/to/slead.fw /lib/firmware <br />
-sh install.sh <br />
+mv /path/to/slead.fw /lib/firmware
+sh install.sh
 ```
 ### This should do everything and autostart is already in the script fell free to modify it.
 <br />
