@@ -1,2 +1,2 @@
 #!/bin/bash
-insmod /etc/init.d/touch-driver/gslx680_ts_acpi.ok
+insmod /etc/init.d/TabTouchDriver/gslx680_ts_acpi.ok
